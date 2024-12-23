@@ -17,9 +17,9 @@ lastmod = true
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
-  favicon = "/images/nakaya.png"
-  avatar = "/images/nakaya.png"
-  headerIcon = "/images/nakaya.png"
+  favicon = "https://takato256.github.io/blog/images/nakaya.png"
+  avatar = "https://takato256.github.io/blog/images/nakaya.png"
+  headerIcon = "https://takato256.github.io/blog/images/nakaya.png"
   location = "Japan"
   enableSearch = true
 

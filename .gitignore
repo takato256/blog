@@ -1,0 +1,4 @@
+.DS_Store
+.vscode/
+.markdownlint.json
+.hugo_build.lock

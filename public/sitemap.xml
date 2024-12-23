@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://takato256.github.io/blog/</loc>
+    <lastmod>2024-12-23T12:26:48+09:00</lastmod>
+  </url><url>
+    <loc>https://takato256.github.io/blog/post/</loc>
+    <lastmod>2024-12-23T12:26:48+09:00</lastmod>
+  </url><url>
+    <loc>https://takato256.github.io/blog/post/title_of_the_post/</loc>
+    <lastmod>2024-12-23T12:26:48+09:00</lastmod>
+  </url><url>
+    <loc>https://takato256.github.io/blog/readme/</loc>
+    <lastmod>2024-12-23T12:20:57+09:00</lastmod>
+  </url><url>
+    <loc>https://takato256.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://takato256.github.io/blog/tags/</loc>
+  </url>
+</urlset>

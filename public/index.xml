@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nakaya&#39;s Blog</title>
+    <link>https://takato256.github.io/blog/</link>
+    <description>Recent content on Nakaya&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 23 Dec 2024 12:26:48 +0900</lastBuildDate>
+    <atom:link href="https://takato256.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログ始めます</title>
+      <link>https://takato256.github.io/blog/post/title_of_the_post/</link>
+      <pubDate>Mon, 23 Dec 2024 12:25:00 +0900</pubDate>
+      <guid>https://takato256.github.io/blog/post/title_of_the_post/</guid>
+      <description>The summary content</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://takato256.github.io/blog/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://takato256.github.io/blog/readme/</guid>
+      <description>&lt;p&gt;&lt;code&gt;ブログを書いていきます&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

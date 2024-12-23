@@ -1,0 +1,27 @@
+baseURL = "https://takato256.github.io/blog/"
+languageCode = "ja-jp"
+title = "Nakaya's Blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+lastmod = true
+
+[params]
+  author = "中屋飛人"
+  description = "ブログ書きたい"
+  github = "takato256"
+  twitter = "nakayaa_t"
+  instagram = ""
+  email = "c1139952@planet.kanazawa-it.ac.jp"
+  url = ""
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/nakaya.png"
+  avatar = "/images/nakaya.png"
+  headerIcon = "/images/nakaya.png"
+  location = "Japan"
+  enableSearch = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]

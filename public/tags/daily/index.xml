@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nakaya&#39;s Blog</title>
-    <link>https://takato256.github.io/blog/post/</link>
-    <description>Recent content in Posts on Nakaya&#39;s Blog</description>
+    <title>Daily on Nakaya&#39;s Blog</title>
+    <link>https://takato256.github.io/blog/tags/daily/</link>
+    <description>Recent content in Daily on Nakaya&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 23 Dec 2024 23:49:42 +0900</lastBuildDate>
-    <atom:link href="https://takato256.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://takato256.github.io/blog/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日報-2024-12-23</title>
       <link>https://takato256.github.io/blog/post/article2024122302/</link>
       <pubDate>Mon, 23 Dec 2024 23:45:00 +0900</pubDate>
       <guid>https://takato256.github.io/blog/post/article2024122302/</guid>
       <description>&lt;h1 id=&#34;今日やったこと&#34;&gt;今日やったこと&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;AI英会話&lt;/li&gt;&#xA;&lt;li&gt;資格勉強&lt;/li&gt;&#xA;&lt;li&gt;Prometheus+Grafana構築&lt;/li&gt;&#xA;&lt;li&gt;Student Assistant&lt;/li&gt;&#xA;&lt;li&gt;Hugoでブログサイト構築&lt;/li&gt;&#xA;&lt;li&gt;BusStopプロジェクト混雑度プログラム修正&lt;/li&gt;&#xA;&lt;li&gt;読書: Prometheus実践ガイド&lt;/li&gt;&#xA;&lt;li&gt;読書: 絵で見てわかるLinuxカーネルの仕組み&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;思ったこと&#34;&gt;思ったこと&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;予期しない予定が多く入ったが，優先順位の高いものはできたのでよかった&lt;/li&gt;&#xA;&lt;li&gt;ブログ書いていきたい&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;明日やること&#34;&gt;明日やること&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prometheus+Grafana構築&lt;/li&gt;&#xA;&lt;li&gt;AI英会話&lt;/li&gt;&#xA;&lt;li&gt;資格勉強&lt;/li&gt;&#xA;&lt;li&gt;筋トレ&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>ブログ始めました</title>
-      <link>https://takato256.github.io/blog/post/article2024122301/</link>
-      <pubDate>Mon, 23 Dec 2024 12:25:00 +0900</pubDate>
-      <guid>https://takato256.github.io/blog/post/article2024122301/</guid>
-      <description>The summary content</description>
     </item>
   </channel>
 </rss>
